@@ -1,7 +1,7 @@
 # Hi, I'm Amyruth! 👋
 
 ### About Me જ⁀➴
-⟢ Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+⟢ Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer \n
 ⟢ Born and raised in Queens, NY
 ⟢ Outside of work I like graphic design, video editing, playing music, and listening to podcasts
 ⟢ Let's connect via email: amyruth.rubio@gmail.com
