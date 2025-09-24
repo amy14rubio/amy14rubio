@@ -6,7 +6,7 @@
 - Outside of work I like graphic design, video editing, playing music, and listening to podcasts
 - Let's connect via email: amyruth.rubio@gmail.com
 
-### Tech Stack ⋆𐙚₊˚⊹♡
+### Tech Stack ⋆ ˚｡⋆୨୧˚
 
 #### Languages
 - JavaScript
@@ -19,7 +19,19 @@
 - GitHub
 
 
-           へ            ╱| 
+           <!-- へ            ╱| 
      ૮  -   ՛ )  ♡   (`   -  7.   
        /   ⁻  ៸|         |、⁻〵
- 乀 (ˍ, ل ل         じしˍ,)ノ
+ 乀 (ˍ, ل ل         じしˍ,)ノ -->
+
+
+
+                ／＞　 フ
+               | 　_　_| 
+          ／` ミ＿xノ 
+         /　　　　 |
+        /　 ヽ　　 ﾉ
+        │　　|　|　|
+／￣|　　 |　|　|
+(￣ヽ＿_ヽ_)__)
+＼二)
