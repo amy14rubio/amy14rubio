@@ -2,21 +2,21 @@
 
 ### About Me જ⁀➴
 ⟢ Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born and raised in Queens, NY
-- Outside of work I like graphic design, video editing, playing music, and listening to podcasts
-- Let's connect via email: amyruth.rubio@gmail.com
+⟢ Born and raised in Queens, NY
+⟢ Outside of work I like graphic design, video editing, playing music, and listening to podcasts
+⟢ Let's connect via email: amyruth.rubio@gmail.com
 
 ### Tech Stack ⋆౨ৎ˚⟡˖ ࣪
 
 #### Languages
-- JavaScript
+⤷ JavaScript
 
 #### Frameworks & Libraries
-- Node.js
+⤷ Node.js
 
 #### Tools
-- Git
-- GitHub
+⤷ Git
+⤷ GitHub
 
 
                                                      へ         ╱| 
