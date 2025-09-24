@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amyruth! 👋
 
-<!--
-**amy14rubio/amy14rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born and raised in Queens, NY.
+- Outside of work I like graphic design, video editing, playing music, and listening to podcasts
+- Let's connect via email: amyruth.rubio@gmail.com
 
-Here are some ideas to get you started:
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- JavaScript
+
+### Frameworks & Libraries
+- Node.js
+
+### Tools
+- Git
+- GitHub
